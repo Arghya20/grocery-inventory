@@ -34,3 +34,4 @@ app.get("/api/groceries", (req, res) => {
 app.listen(port, () => {
   console.log(`Server running on port ${port}`);
 });
+// the code
